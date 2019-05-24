@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cb4250dac11424a6bb00011f276c677f
+timeCreated: 1445162095
+licenseType: Free
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

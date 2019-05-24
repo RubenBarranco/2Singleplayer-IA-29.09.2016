@@ -1,0 +1,13 @@
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\App42-Unity3D-SDK-3.4.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\nunit.framework.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\SASHASKULL\Desktop\PuzzMeOut\obj\Debug\Assembly-CSharp-firstpass.pdb

@@ -1,0 +1,2 @@
+Aqui va el script de la zona de tablero de un proyecto que estoy haciendo 
+estamos solucionando un problema con la base de datos ya que el juego trata de quien es el que termina antes el puzzle. 
